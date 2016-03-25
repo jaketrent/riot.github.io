@@ -634,7 +634,7 @@ Parent tag options are passed with the `riot.mount` method and child tag options
 
 ### Nested HTML
 
-"HTML transclusion" is a way to process the inner HTML on the page. This is achieved with a build-in `<yield>` tag. Example:
+"HTML transclusion" is a way to process the inner HTML on the page. This is achieved with a built-in `<yield>` tag. Example:
 
 
 ### Tag definition
